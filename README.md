@@ -19,5 +19,5 @@ The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Ch
 
 The Main developers are: Kimberly Solon, [Xavier Flores-Alsina](https://github.com/xfalsina),  Christian Kazadi Mbamba, Eveline I.P. Volcke, Stephan Tait, Damien Batstone, Krist Gernaey, and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: [Effects of ionic strength and ion pairing on (plant-wide) modelling of anaerobic digestion](https://doi.org/10.1016/j.watres.2014.11.035). This version of the model is adapated to be run in Matlab 2019b.
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v1/ADM1.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v1/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20ION%20CORRECTIONS-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v3/ADM1.ion.corrections.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models) 
 
