@@ -11,7 +11,7 @@ Water Sci. Technol., 54 (4) (2006), 11-19](https://doi.org/10.2166/wst.2006.521)
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20DAE2-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v2/ADM1.DAE.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v2/ADM1.DAE.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v1/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models) 
 
 
 <strong>2. Default Matlab/Simulink ADM1 with algebraic solutions for H2 and pH </strong>  
@@ -23,7 +23,7 @@ Water Sci. Technol., 54 (4) (2006), 11-19](https://doi.org/10.2166/wst.2006.521)
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1-990000?style=for-the-badge)]() [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v1/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20DAE2-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v2/ADM1.DAE.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models) 
 
 
 <strong>3. Default Matlab/Simulink ADM1 with ionic corrections </strong>  
