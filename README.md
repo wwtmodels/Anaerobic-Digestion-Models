@@ -26,7 +26,11 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>3. Default Matlab/Simulink ADM1 with ionic corrections </strong>  
 
-The Main developers are: Kimberly Solon, [Xavier Flores-Alsina](https://github.com/xfalsina),  Christian Kazadi Mbamba, Eveline I.P. Volcke, Stephan Tait, Damien Batstone, Krist Gernaey, and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: [Effects of ionic strength and ion pairing on (plant-wide) modelling of anaerobic digestion](https://doi.org/10.1016/j.watres.2014.11.035). This version of the model is adapated to be run in Matlab 2019b.
+The Main developers are: Kimberly Solon, [Xavier Flores-Alsina](https://github.com/xfalsina),  Christian Kazadi Mbamba, Eveline I.P. Volcke, Stephan Tait, Damien Batstone, Krist Gernaey, and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
+
+[Solon K, Flores-Alsina X , Kazadi Mbamaba C., Gernaey K. V, Tait S., Batstone D., Volcke E. I. P. and Jeppsson U. (2015) Effects of ion strength and ion pairing on plant wide modelling on anaerobic digester. Water Research, 70,235-245](https://doi.org/10.1016/j.watres.2014.11.035). 
+
+This version of the model is adapated to be run in Matlab 2019b.
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20ION%20CORRECTIONS-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v3/ADM1.ion.corrections.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models) 
 
