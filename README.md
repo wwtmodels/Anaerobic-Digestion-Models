@@ -57,6 +57,16 @@ The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina) and
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20WITH%20ZVI%20FADDITION-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v5/ADM1.ZVI.CEJ.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v5/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models)
 
 
-This version of the model is adapated to be run in Matlab 2019b (or newer)
+This version of the model is adapated to be run in Matlab 2019b (or newer).
 
+<strong>6. ADM1 PS implemented in granular reactor </strong>  
+
+The Main developers are: Hannah Feldman, [Xavier Flores-Alsina](https://github.com/xfalsina), Pedram Ramin, Kasper Kjellberg, Damien Batstone, [Ulf Jeppsson](https://github.com/ulfjeppsson), Krist Gernaey. The model is described in the following paper: 
+
+[Feldman H., Flores-Alsina X., Ramin P., Kjellberg K., Batstone D.J., Jeppsson U., Gernaey K.V. (2017) Multi-scale modelling  of industrial anaerobic granular sludge reactor . Water Research, 126; 488-500](https://doi.org/10.1016/j.watres.2017.09.033). 
+
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20WITH%20ZVI%20FADDITION-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v5/ADM1.ZVI.CEJ.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v5/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models)
+
+
+This version of the model is adapated to be run in Matlab 2019b (or newer).
 
