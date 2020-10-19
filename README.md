@@ -36,7 +36,7 @@ This version of the model is adapated to be run in Matlab 2019b.
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20ION%20CORRECTIONS-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v3/ADM1.ion.corrections.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models) 
 
-<strong>4. ADM1 extended with P,S,Fe interactions </strong>  
+<strong>4. ADM1 extended with P-S-Fe interactions </strong>  
 
 The Main developers are: Kimberly Solon, [Xavier Flores-Alsina](https://github.com/xfalsina),  Kimberly Solon, Christian Kazadi Mbamba, Stephan Tait, Krist Gernaey, [Ulf Jeppsson](https://github.com/ulfjeppsson) and Damien Batstone. The model is described in the following paper: 
 
