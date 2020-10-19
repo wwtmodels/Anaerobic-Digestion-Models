@@ -32,7 +32,7 @@ The Main developers are: Kimberly Solon, [Xavier Flores-Alsina](https://github.c
 
 [Solon K, Flores-Alsina X , Kazadi Mbamaba C., Gernaey K. V, Tait S., Batstone D., Volcke E. I. P. and Jeppsson U. (2015) Effects of ion strength and ion pairing on plant wide modelling on anaerobic digester. Water Research, 70,235-245](https://doi.org/10.1016/j.watres.2014.11.035). 
 
-This version of the model is adapated to be run in Matlab 2019b.
+This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20ION%20CORRECTIONS-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v3/ADM1.ion.corrections.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models) 
 
@@ -42,4 +42,4 @@ The Main developers are: Kimberly Solon, [Xavier Flores-Alsina](https://github.c
 
 [Flores-Alsina X., Solon K., Kazadi-Mbamba C., Tait S., Jeppsson U., Gernaey K.V. and Batstone D (2016). Modelling phosphorus, sulphur and iron interactions during the dynamic simulation of anaerobic digestion processes Water Research, 95,370-382](https://www.sciencedirect.com/science/article/pii/S0043135416301397). 
 
-This version of the model is adapated to be run in Matlab 2019b.
+This version of the model is adapated to be run in Matlab 2019b (or newer).
