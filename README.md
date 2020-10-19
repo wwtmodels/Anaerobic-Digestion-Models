@@ -48,7 +48,7 @@ The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina),  K
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 
-<strong>5. ADM1 extended with XVI addition </strong>  
+<strong>5. ADM1 extended with ZVI addition </strong>  
 
 The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina) and Krist Gernaey. The model is described in the following paper: 
 
