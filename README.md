@@ -42,11 +42,10 @@ The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina),  K
 
 [Flores-Alsina X., Solon K., Kazadi-Mbamba C., Tait S., Jeppsson U., Gernaey K.V. and Batstone D (2016). Modelling phosphorus, sulphur and iron interactions during the dynamic simulation of anaerobic digestion processes Water Research, 95,370-382](https://www.sciencedirect.com/science/article/pii/S0043135416301397). 
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20P%20S%20Fe%20INTERACTIONS-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v4/ADM1.P.S.Fe.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v4/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models)
-
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20P%20S%20Fe%20INTERACTIONS-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v4/ADM1.P.S.Fe.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v4/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models)
 
 <strong>5. ADM1 extended with ZVI addition </strong>  
 
@@ -54,10 +53,10 @@ The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina) and
 
 [Puyol D., Flores-Alsina X., Molina R., Segura Y. Padrino B., Fierro J.L., Gernaey L.V., Melero J.A., Martínez F. (2018). Exploring the effects of ZVI addition on resource recovery in the anaerobic digestion process. Chemical Engineering Journal, 335, 703-711](https://www.sciencedirect.com/science/article/pii/S1385894717319411?via%3Dihub). 
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20WITH%20ZVI%20FADDITION-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v5/ADM1.ZVI.CEJ.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v5/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models)
-
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
+
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20WITH%20ZVI%20FADDITION-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v5/ADM1.ZVI.CEJ.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v5/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models)
 
 <strong>6. ADM1 PS implemented in granular reactor </strong>  
 
@@ -65,10 +64,9 @@ The Main developers are: Hannah Feldman, [Xavier Flores-Alsina](https://github.c
 
 [Feldman H., Flores-Alsina X., Ramin P., Kjellberg K., Batstone D.J., Jeppsson U., Gernaey K.V. (2017) Multi-scale modelling  of industrial anaerobic granular sludge reactor . Water Research, 126; 488-500](https://doi.org/10.1016/j.watres.2017.09.033). 
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20PS%20IN%20GRANULAR%20REACTOR-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v6/ADM1.granular.reactor.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v6/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models)
-
-
 This version of the model is adapated to be run in Matlab 2019b (or newer).
+
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20PS%20IN%20GRANULAR%20REACTOR-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v6/ADM1.granular.reactor.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v6/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models)
 
 
 ![logo](logo.png)
