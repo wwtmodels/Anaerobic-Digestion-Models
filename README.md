@@ -56,7 +56,7 @@ The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina) and
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20WITH%20ZVI%20FADDITION-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v5/ADM1.ZVI.CEJ.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v5/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models)
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ADM1%20WITH%20ZVI%20ADDITION-990000?style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models/releases/download/v5/ADM1.ZVI.CEJ.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Anaerobic-Digestion-Models/v5/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Anaerobic-Digestion-Models)
 
 <strong>6. ADM1 PS implemented in granular reactor </strong>  
 
