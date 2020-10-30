@@ -70,3 +70,5 @@ The Main developers are: Hannah Feldman, [Xavier Flores-Alsina](https://github.c
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
+
+![logo](logo.png)
