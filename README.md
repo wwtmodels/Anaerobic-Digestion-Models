@@ -6,7 +6,7 @@ This repository contains the different versions of the IWA Anaerobic Digetion Mo
 
 The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Christian Rosen, Darko Vrecko,[Krist V. Gernaey](https://github.com/kristgernaey), Marie Noelle Pons and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
-[Rosen C., Vrecko C., Gernaey K.V., Pons M.N., Jeppsson U. Implementing ADM1 for plant-wide benchmark simulations in Matlab/Simulink
+[Rosen C., Vrecko C., Gernaey K.V., Pons M.N., Jeppsson U. Implementing ADM1 for plant-wide benchmark simulations in Matlab/Simulink.
 Water Sci. Technol., 54 (4) (2006), 11-19](https://doi.org/10.2166/wst.2006.521). 
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
@@ -18,7 +18,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Christian Rosen, Darko Vrecko, [Krist V. Gernaey](https://github.com/kristgernaey), Marie Noelle Pons and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
-[Rosen C., Vrecko C., Gernaey K.V., Pons M.N., Jeppsson U. Implementing ADM1 for plant-wide benchmark simulations in Matlab/Simulink
+[Rosen C., Vrecko C., Gernaey K.V., Pons M.N., Jeppsson U. Implementing ADM1 for plant-wide benchmark simulations in Matlab/Simulink.
 Water Sci. Technol., 54 (4) (2006), 11-19](https://doi.org/10.2166/wst.2006.521). 
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
