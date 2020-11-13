@@ -38,9 +38,9 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>4. ADM1 extended with P-S-Fe interactions </strong>  
 
-The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina),[Kimberly Solon](https://github.com/KimberlySolon), Christian Kazadi Mbamba, Stephan Tait, [Krist V. Gernaey](https://github.com/kristgernaey), [Ulf Jeppsson](https://github.com/ulfjeppsson) and [Damien J Batstone](https://github.com/damienbatstone). The model is described in the following paper: 
+The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), [Kimberly Solon](https://github.com/KimberlySolon), Christian Kazadi Mbamba, Stephan Tait, [Krist V. Gernaey](https://github.com/kristgernaey), [Ulf Jeppsson](https://github.com/ulfjeppsson) and [Damien J Batstone](https://github.com/damienbatstone). The model is described in the following paper: 
 
-[Flores-Alsina X., Solon K., Kazadi-Mbamba C., Tait S., Jeppsson U., Gernaey K.V. and Batstone D (2016). Modelling phosphorus, sulphur and iron interactions during the dynamic simulation of anaerobic digestion processes Water Research, 95,370-382](https://www.sciencedirect.com/science/article/pii/S0043135416301397). 
+[Flores-Alsina X., Solon K., Kazadi-Mbamba C., Tait S., Jeppsson U., Gernaey K.V. and Batstone D (2016). Modelling phosphorus, sulphur and iron interactions during the dynamic simulation of anaerobic digestion processes. Water Research, 95,370-382](https://www.sciencedirect.com/science/article/pii/S0043135416301397). 
 
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
