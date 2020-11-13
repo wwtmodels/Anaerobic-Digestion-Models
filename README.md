@@ -30,7 +30,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 The Main developers are: [Kimberly Solon](https://github.com/KimberlySolon), [Xavier Flores-Alsina](https://github.com/xfalsina),  Christian Kazadi Mbamba, Eveline I.P. Volcke, Stephan Tait, [Damien J Batstone](https://github.com/damienbatstone), [Krist V. Gernaey](https://github.com/kristgernaey), and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
-[Solon K, Flores-Alsina X , Kazadi Mbamaba C., Gernaey K. V, Tait S., Batstone D., Volcke E. I. P. and Jeppsson U. (2015) Effects of ion strength and ion pairing on plant wide modelling on anaerobic digester. Water Research, 70,235-245](https://doi.org/10.1016/j.watres.2014.11.035). 
+[Solon K, Flores-Alsina X , Kazadi Mbamaba C., Gernaey K. V, Tait S., Batstone D., Volcke E. I. P. and Jeppsson U. (2015). Effects of ion strength and ion pairing on plant wide modelling on anaerobic digester. Water Research, 70,235-245](https://doi.org/10.1016/j.watres.2014.11.035). 
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
