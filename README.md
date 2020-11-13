@@ -30,7 +30,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 The Main developers are: [Kimberly Solon](https://github.com/KimberlySolon), [Xavier Flores-Alsina](https://github.com/xfalsina),  Christian Kazadi Mbamba, Eveline I.P. Volcke, Stephan Tait, [Damien J Batstone](https://github.com/damienbatstone), [Krist V. Gernaey](https://github.com/kristgernaey), and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
-[Solon K, Flores-Alsina X , Kazadi Mbamaba C., Gernaey K. V, Tait S., Batstone D., Volcke E. I. P. and Jeppsson U. (2015). Effects of ion strength and ion pairing on plant wide modelling on anaerobic digester. Water Research, 70,235-245](https://doi.org/10.1016/j.watres.2014.11.035). 
+[Solon K, Flores-Alsina X , Kazadi Mbamaba C., Gernaey K. V, Tait S., Batstone D., Volcke E. I. P. and Jeppsson U. (2015). Effects of ion strength and ion pairing on plant wide modelling on anaerobic digester. Water Research, 70, 235-245](https://doi.org/10.1016/j.watres.2014.11.035). 
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
@@ -40,7 +40,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), [Kimberly Solon](https://github.com/KimberlySolon), Christian Kazadi Mbamba, Stephan Tait, [Krist V. Gernaey](https://github.com/kristgernaey), [Ulf Jeppsson](https://github.com/ulfjeppsson) and [Damien J Batstone](https://github.com/damienbatstone). The model is described in the following paper: 
 
-[Flores-Alsina X., Solon K., Kazadi-Mbamba C., Tait S., Jeppsson U., Gernaey K.V. and Batstone D (2016). Modelling phosphorus, sulphur and iron interactions during the dynamic simulation of anaerobic digestion processes. Water Research, 95,370-382](https://www.sciencedirect.com/science/article/pii/S0043135416301397). 
+[Flores-Alsina X., Solon K., Kazadi-Mbamba C., Tait S., Jeppsson U., Gernaey K.V. and Batstone D (2016). Modelling phosphorus, sulphur and iron interactions during the dynamic simulation of anaerobic digestion processes. Water Research, 95, 370-382](https://www.sciencedirect.com/science/article/pii/S0043135416301397). 
 
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
