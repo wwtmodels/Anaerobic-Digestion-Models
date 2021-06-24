@@ -1,0 +1,524 @@
+Julia command: ./tim.jl
+Observations:
+- o1:
+    target: 43.524
+    weight: 1
+- o2:
+    target: 19.1588
+    weight: 1
+- o3:
+    target: 6.23771
+    weight: 1
+- o4:
+    target: 0.00779
+    weight: 1
+- o5:
+    target: 0
+    weight: 1
+- o6:
+    target: 6.87726
+    weight: 1
+- o7:
+    target: 0.63904
+    weight: 1
+Parameters:
+- p1:
+    init: 0.1
+    max: 0.12
+    min: 0.08000000000000002
+    type: nothing
+- p2:
+    init: 0.25
+    max: 0.3
+    min: 0.2
+    type: nothing
+- p3:
+    init: 0.2
+    max: 0.24
+    min: 0.16000000000000003
+    type: nothing
+- p4:
+    init: 0.2
+    max: 0.24
+    min: 0.16000000000000003
+    type: nothing
+- p5:
+    init: 0.25
+    max: 0.3
+    min: 0.2
+    type: nothing
+- p6:
+    init: 0.002686
+    max: 0.0028203
+    min: 0.0025517
+    type: nothing
+- p7:
+    init: 0.004286
+    max: 0.0045003000000000005
+    min: 0.004071699999999999
+    type: nothing
+- p8:
+    init: 0.007
+    max: 0.007350000000000001
+    min: 0.00665
+    type: nothing
+- p9:
+    init: 0.02786
+    max: 0.033431999999999996
+    min: 0.022288000000000002
+    type: nothing
+- p10:
+    init: 0.03
+    max: 0.036
+    min: 0.024
+    type: nothing
+- p11:
+    init: 0.0313
+    max: 0.03756
+    min: 0.025040000000000003
+    type: nothing
+- p12:
+    init: 0.03
+    max: 0.036
+    min: 0.024
+    type: nothing
+- p13:
+    init: 0.022
+    max: 0.026399999999999996
+    min: 0.0176
+    type: nothing
+- p14:
+    init: 0.03
+    max: 0.036
+    min: 0.024
+    type: nothing
+- p15:
+    init: 0.0313
+    max: 0.03756
+    min: 0.025040000000000003
+    type: nothing
+- p16:
+    init: 0.03
+    max: 0.036
+    min: 0.024
+    type: nothing
+- p17:
+    init: 0.95
+    max: 1.14
+    min: 0.76
+    type: nothing
+- p18:
+    init: 0.0217
+    max: 0.02604
+    min: 0.01736
+    type: nothing
+- p19:
+    init: 0.19
+    max: 0.22799999999999998
+    min: 0.15200000000000002
+    type: nothing
+- p20:
+    init: 0.13
+    max: 0.156
+    min: 0.10400000000000001
+    type: nothing
+- p21:
+    init: 0.27
+    max: 0.324
+    min: 0.21600000000000003
+    type: nothing
+- p22:
+    init: 0.41
+    max: 0.49199999999999994
+    min: 0.328
+    type: nothing
+- p23:
+    init: 0.006143
+    max: 0.00645015
+    min: 0.00583585
+    type: nothing
+- p24:
+    init: 0.025
+    max: 0.03
+    min: 0.020000000000000004
+    type: nothing
+- p25:
+    init: 0.0268
+    max: 0.03216
+    min: 0.02144
+    type: nothing
+- p26:
+    init: 0.0313
+    max: 0.03756
+    min: 0.025040000000000003
+    type: nothing
+- p27:
+    init: 0.0313
+    max: 0.03756
+    min: 0.025040000000000003
+    type: nothing
+- p28:
+    init: 0.1
+    max: 0.12
+    min: 0.08000000000000002
+    type: nothing
+- p29:
+    init: 0.06
+    max: 0.072
+    min: 0.048
+    type: nothing
+- p30:
+    init: 0.23
+    max: 0.276
+    min: 0.18400000000000002
+    type: nothing
+- p31:
+    init: 0.26
+    max: 0.312
+    min: 0.20800000000000002
+    type: nothing
+- p32:
+    init: 0.05
+    max: 0.06
+    min: 0.04000000000000001
+    type: nothing
+- p33:
+    init: 0.4
+    max: 0.48
+    min: 0.32000000000000006
+    type: nothing
+- p34:
+    init: 0.024
+    max: 0.0288
+    min: 0.019200000000000002
+    type: nothing
+- p35:
+    init: 0.08
+    max: 0.096
+    min: 0.064
+    type: nothing
+- p36:
+    init: 0.06
+    max: 0.072
+    min: 0.048
+    type: nothing
+- p37:
+    init: 0.06
+    max: 0.072
+    min: 0.048
+    type: nothing
+- p38:
+    init: 0.04
+    max: 0.048
+    min: 0.032
+    type: nothing
+- p39:
+    init: 0.0156
+    max: 0.018719999999999997
+    min: 0.01248
+    type: nothing
+- p40:
+    init: 0.05
+    max: 0.06
+    min: 0.04000000000000001
+    type: nothing
+- p41:
+    init: 0.06
+    max: 0.072
+    min: 0.048
+    type: nothing
+- p42:
+    init: 0.5
+    max: 0.6
+    min: 0.4
+    type: nothing
+- p43:
+    init: 10.0
+    max: 12.0
+    min: 8.0
+    type: nothing
+- p44:
+    init: 10.0
+    max: 12.0
+    min: 8.0
+    type: nothing
+- p45:
+    init: 10.0
+    max: 12.0
+    min: 8.0
+    type: nothing
+- p46:
+    init: 0.0001
+    max: 0.000105
+    min: 9.5e-05
+    type: nothing
+- p47:
+    init: 30.0
+    max: 36.0
+    min: 24.0
+    type: nothing
+- p48:
+    init: 0.5
+    max: 0.6
+    min: 0.4
+    type: opt
+- p49:
+    init: 0.0941
+    max: 0.11291999999999999
+    min: 0.07528000000000001
+    type: nothing
+- p50:
+    init: 4.0
+    max: 4.8
+    min: 3.2
+    type: nothing
+- p51:
+    init: 50.0
+    max: 60.0
+    min: 40.0
+    type: nothing
+- p52:
+    init: 0.3
+    max: 0.36
+    min: 0.24
+    type: nothing
+- p53:
+    init: 6.0
+    max: 7.199999999999999
+    min: 4.800000000000001
+    type: nothing
+- p54:
+    init: 0.038
+    max: 0.045599999999999995
+    min: 0.0304
+    type: nothing
+- p55:
+    init: 5.0e-06
+    max: 5.2500000000000006e-06
+    min: 4.75e-06
+    type: nothing
+- p56:
+    init: 20.0
+    max: 24.0
+    min: 16.0
+    type: nothing
+- p57:
+    init: 0.18956
+    max: 0.227472
+    min: 0.151648
+    type: nothing
+- p58:
+    init: 1.0e-05
+    max: 1.0500000000000001e-05
+    min: 9.5e-06
+    type: nothing
+- p59:
+    init: 13.0
+    max: 15.6
+    min: 10.4
+    type: nothing
+- p60:
+    init: 0.015
+    max: 0.018
+    min: 0.012
+    type: opt
+- p61:
+    init: 3.0e-06
+    max: 3.1500000000000003e-06
+    min: 2.85e-06
+    type: nothing
+- p62:
+    init: 8.0
+    max: 9.6
+    min: 6.4
+    type: nothing
+- p63:
+    init: 0.0028
+    max: 0.00294
+    min: 0.00266
+    type: nothing
+- p64:
+    init: 0.0018
+    max: 0.00189
+    min: 0.00171
+    type: nothing
+- p65:
+    init: 7.0
+    max: 8.4
+    min: 5.6000000000000005
+    type: nothing
+- p66:
+    init: 6.0
+    max: 7.199999999999999
+    min: 4.800000000000001
+    type: nothing
+- p67:
+    init: 35.0
+    max: 42.0
+    min: 28.0
+    type: nothing
+- p68:
+    init: 2.011e-05
+    max: 2.11155e-05
+    min: 1.9104499999999996e-05
+    type: nothing
+- p69:
+    init: 0.31
+    max: 0.372
+    min: 0.248
+    type: nothing
+- p70:
+    init: 5.0
+    max: 6.0
+    min: 4.0
+    type: nothing
+- p71:
+    init: 0.02
+    max: 0.024
+    min: 0.016
+    type: nothing
+- p72:
+    init: 0.02
+    max: 0.024
+    min: 0.016
+    type: nothing
+- p73:
+    init: 0.02
+    max: 0.024
+    min: 0.016
+    type: nothing
+- p74:
+    init: 0.02
+    max: 0.024
+    min: 0.016
+    type: nothing
+- p75:
+    init: 0.02
+    max: 0.024
+    min: 0.016
+    type: nothing
+- p76:
+    init: 0.02
+    max: 0.024
+    min: 0.016
+    type: nothing
+- p77:
+    init: 0.02
+    max: 0.024
+    min: 0.016
+    type: nothing
+- p78:
+    init: 0.083145
+    max: 0.09977399999999999
+    min: 0.066516
+    type: nothing
+- p79:
+    init: 303.15
+    max: 363.78
+    min: 242.51999999999998
+    type: nothing
+- p80:
+    init: 298.15
+    max: 357.78
+    min: 238.51999999999998
+    type: nothing
+- p81:
+    init: 14.0
+    max: 16.8
+    min: 11.200000000000001
+    type: nothing
+- p82:
+    init: 4.86
+    max: 5.832
+    min: 3.8880000000000003
+    type: nothing
+- p83:
+    init: 4.82
+    max: 5.784
+    min: 3.8560000000000003
+    type: nothing
+- p84:
+    init: 4.88
+    max: 5.856
+    min: 3.904
+    type: nothing
+- p85:
+    init: 4.76
+    max: 5.712
+    min: 3.808
+    type: nothing
+- p86:
+    init: 6.35
+    max: 7.619999999999999
+    min: 5.08
+    type: nothing
+- p87:
+    init: 9.25
+    max: 11.1
+    min: 7.4
+    type: nothing
+- p88:
+    init: 10.3
+    max: 12.360000000000001
+    min: 8.24
+    type: nothing
+- p89:
+    init: 10000000000.0
+    max: 12000000000.0
+    min: 8000000000.0
+    type: nothing
+- p90:
+    init: 10000000000.0
+    max: 12000000000.0
+    min: 8000000000.0
+    type: nothing
+- p91:
+    init: 10000000000.0
+    max: 12000000000.0
+    min: 8000000000.0
+    type: nothing
+- p92:
+    init: 10000000000.0
+    max: 12000000000.0
+    min: 8000000000.0
+    type: nothing
+- p93:
+    init: 10000000000.0
+    max: 12000000000.0
+    min: 8000000000.0
+    type: nothing
+- p94:
+    init: 1.013
+    max: 1.2155999999999998
+    min: 0.8104
+    type: nothing
+- p95:
+    init: 200.0
+    max: 240.0
+    min: 160.0
+    type: nothing
+- p96:
+    init: 0.0313
+    max: 0.03756
+    min: 0.025040000000000003
+    type: nothing
+- p97:
+    init: 0.035
+    max: 0.042
+    min: 0.028000000000000004
+    type: nothing
+- p98:
+    init: 0.0014
+    max: 0.00147
+    min: 0.00133
+    type: nothing
+- p99:
+    init: 0.00078
+    max: 0.0008190000000000001
+    min: 0.0007409999999999999
+    type: nothing
+- p100:
+    init: 50000.0
+    max: 60000.0
+    min: 40000.0
+    type: nothing
