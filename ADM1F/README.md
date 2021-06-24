@@ -8,7 +8,7 @@ The C++ version of the model is computationally more efficient than its Matlab/S
 
 ### ADM1F_SRT (Solid Retention Time) version
 
-The modified version of the ADM1F includes SRT and other modifications described in the [user guide](https://github.com/lanl/ADM1F/blob/main/adm1f_srt_user_guide.pdf) and [documentation](https://elchin.github.io/ADM1F_docs/).
+The modified version of the ADM1F includes SRT and other modifications described in the [user guide](https://github.com/wwtmodels/Anaerobic-Digestion-Models/blob/ADM1F/ADM1F/adm1f_srt_user_guide.pdf) and [documentation](https://elchin.github.io/ADM1F_docs/).
 
 ### Join the Community
 
@@ -20,7 +20,7 @@ If you have any questions or would like to be a developer, feel free to join our
 
 ### License
 
-Please see the [LICENSE](https://github.com/lanl/ADM1F/blob/main/LICENSE).
+Please see the [LICENSE](https://github.com/wwtmodels/Anaerobic-Digestion-Models/blob/ADM1F/ADM1F/LICENSE).
 
 #### Acknowledgements
 
