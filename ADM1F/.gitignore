@@ -1,0 +1,16 @@
+S generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+__MACOSX
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ipython notebook and python files #
+######################
+.pyc
+.out
+.ipynb_checkpoints/
