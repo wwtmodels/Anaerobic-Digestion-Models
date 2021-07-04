@@ -1,5 +1,6 @@
 S generated files #
 ######################
+__pycache__
 .DS_Store
 .DS_Store?
 ._*
@@ -8,7 +9,8 @@ __MACOSX
 .Trashes
 ehthumbs.db
 Thumbs.db
-
+binaryoutput
+binaryoutput.info
 # ipython notebook and python files #
 ######################
 .pyc

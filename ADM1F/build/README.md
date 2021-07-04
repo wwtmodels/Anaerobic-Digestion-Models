@@ -1,4 +1,9 @@
 ## Compile ADM1F
+0. Download or clone the ADM1F model to your local computer:
+
+   `$ git clone https://github.com/wwtmodels/Anaerobic-Digestion-Models.git`
+
+   `$ cd ADM1F`
 
 1.  ADM1F uses external numerical library package PETSc. First download PETSc:
 
